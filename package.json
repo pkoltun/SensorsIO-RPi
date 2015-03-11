@@ -13,7 +13,7 @@
     "lib/"
   ],
   "license": "MIT",
-  "repository": "pkoltun/SensorsIO",
+  "repository": "pkoltun/SensorsIO-RPi",
   "dependencies": {
     "child_process2": "^2.0.1",
     "ps-tree": "0.0.3",
