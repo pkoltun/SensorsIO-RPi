@@ -1,0 +1,23 @@
+{
+  "name": "Sensors-io-rpi",
+  "version": "0.0.1",
+  "description": "Video, microphone and speaker sensors for Raspberry PI",
+  "main": "index.js",
+  "author": {
+    "name": "pkolt",
+    "email": "pkdev14@gmail.com"
+  },
+  "files": [
+    "README.md",
+    "index.js",
+    "lib/"
+  ],
+  "license": "MIT",
+  "repository": "pkoltun/SensorsIO",
+  "dependencies": {
+    "child_process2": "^2.0.1",
+    "ps-tree": "0.0.3",
+    "rpi-gpio": "^0.5.1",
+    "sensors-io": "0.0.5"
+  }
+}
