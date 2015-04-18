@@ -1,6 +1,6 @@
 {
   "name": "sensors-io-rpi",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Video, microphone and speaker sensors for Raspberry Pi",
   "main": "index.js",
   "author": {
