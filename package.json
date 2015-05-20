@@ -18,6 +18,8 @@
     "child_process2": "^2.0.1",
     "onoff": "^1.0.2",
     "ps-tree": "0.0.3",
-    "sensors-io": "0.0.5"
+    "sensors-io": "0.0.5",
+    "speaker": "^0.2.5",
+    "wav": "^1.0.0"
   }
 }
